@@ -1,0 +1,7 @@
+{
+  "description": "3D Interactive Book of Answers controlled by hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "Cyber Oracle"
+}
