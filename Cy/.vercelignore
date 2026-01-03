@@ -1,0 +1,6 @@
+# 排除不必要的文件
+node_modules/
+*.log
+.env.local
+.DS_Store
+Thumbs.db
